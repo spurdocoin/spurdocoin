@@ -14,7 +14,7 @@ Coin reward per block: 609
 
 100% PoW: X11
 
-Difficult readjustment: every 120 blocks
+Difficult readjustment: every 60 blocks
 
 Block generation: 5 min
 
